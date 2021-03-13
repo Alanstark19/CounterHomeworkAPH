@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CounterHomeworkAPH</string>
+    <string name="button_label_count">CONTADOR</string>
+    <string name="count_initial_value">0</string>
+    <string name="place_holder">Escribe algo</string>
+
+</resources>
